@@ -4,7 +4,7 @@ import torchvision
 from .SHA import build as build_sha
 
 data_path = {
-    'SHA': '/kaggle/input/shanghaitech/part_A',
+    'SHA': '/kaggle/input/shanghaitech/ShanghaiTech/part_A',
 }
 
 def build_dataset(image_set, args):
